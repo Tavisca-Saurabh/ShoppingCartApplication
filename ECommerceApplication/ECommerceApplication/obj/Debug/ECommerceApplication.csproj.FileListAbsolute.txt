@@ -1,0 +1,14 @@
+F:\Tavisca Work\ECommerceApplication\ECommerceApplication\bin\Debug\ECommerceApplication.exe.config
+F:\Tavisca Work\ECommerceApplication\ECommerceApplication\bin\Debug\ECommerceApplication.exe
+F:\Tavisca Work\ECommerceApplication\ECommerceApplication\bin\Debug\ECommerceApplication.pdb
+F:\Tavisca Work\ECommerceApplication\ECommerceApplication\obj\Debug\ECommerceApplication.csprojResolveAssemblyReference.cache
+F:\Tavisca Work\ECommerceApplication\ECommerceApplication\obj\Debug\ECommerceApplication.csproj.CoreCompileInputs.cache
+F:\Tavisca Work\ECommerceApplication\ECommerceApplication\obj\Debug\ECommerceApplication.exe
+F:\Tavisca Work\ECommerceApplication\ECommerceApplication\obj\Debug\ECommerceApplication.pdb
+C:\Users\smanchanda\Downloads\ECommerceApplication\ECommerceApplication\bin\Debug\ECommerceApplication.exe.config
+C:\Users\smanchanda\Downloads\ECommerceApplication\ECommerceApplication\bin\Debug\ECommerceApplication.exe
+C:\Users\smanchanda\Downloads\ECommerceApplication\ECommerceApplication\bin\Debug\ECommerceApplication.pdb
+C:\Users\smanchanda\Downloads\ECommerceApplication\ECommerceApplication\obj\Debug\ECommerceApplication.csprojAssemblyReference.cache
+C:\Users\smanchanda\Downloads\ECommerceApplication\ECommerceApplication\obj\Debug\ECommerceApplication.csproj.CoreCompileInputs.cache
+C:\Users\smanchanda\Downloads\ECommerceApplication\ECommerceApplication\obj\Debug\ECommerceApplication.exe
+C:\Users\smanchanda\Downloads\ECommerceApplication\ECommerceApplication\obj\Debug\ECommerceApplication.pdb
